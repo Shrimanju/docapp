@@ -1,0 +1,119 @@
+#contacts{
+	padding: 10px 0;
+	background: white;
+}
+
+
+
+.section {
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+	font-family: sans-serif;
+
+
+  }
+
+  .health1image{
+	  position: relative;
+	  margin: 0 auto;
+}
+  .health1{
+float: right;
+	width: 80%;
+	height: 370px;
+
+}
+  .button1{
+	  position: absolute;
+	  top: 0;
+	  right: 0;
+	   padding:10px 23px 10px 23px;
+	  margin-top: 10%;
+	  margin-right: -13%;
+	  color :rgb(235, 232, 232);
+	  font-size: 20px;
+	  font-weight: bold;
+	  background-color: rgb(34, 34, 151);
+  }
+  .health2image{
+	position: relative;
+}
+  .health2{
+		
+	margin: 0 auto;
+	width: 80%;
+	height: 420px;
+  }
+  .button2{
+	position: absolute;
+	top: 0;
+	left: 0;
+	 padding:10px 23px 10px 23px;
+	margin-top: 7%;
+	margin-left: -7%;
+	color :rgb(235, 232, 232);
+	font-size: 20px;
+	font-weight: bold;
+	background-color: rgb(34, 34, 151);
+}
+  .paragraph1{
+	  
+	color: #555;
+	display: flex;
+	flex-direction: column;
+  }
+  .paragraph{
+	  padding-top:100px;
+	color: #555;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+  }
+  .content {
+	  
+	padding: 20px;
+  }
+  
+  .title {
+	font-size: 24px;
+	color: #222;
+	line-height: 24px;
+  }
+/* #contacts i {
+	color: #e6e6e6;
+	font-size: 32px;
+	margin-bottom: 20px;
+}
+.contacts {
+	position: relative;
+	padding: 20px;
+}
+.contacts-image {
+	float: left;
+	margin-right: 15px;
+} */
+
+/* .contacts-image, .contacts-image img {
+	display: block;
+	width: 64px;
+	height: 64px;
+	border-radius: 10%;
+}
+.contacts-content {
+	position: relative;
+	overflow: hidden;
+}
+.contacts-content p {
+	margin-bottom: 0;
+	font-size: 14px;
+	font-style: italic;
+}
+.contacts-meta {
+	margin-top: 10px;
+	font-size: 15px;
+	font-weight: 600;
+	color: #666;
+} */
